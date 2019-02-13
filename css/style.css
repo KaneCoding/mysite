@@ -10,7 +10,7 @@
     box-sizing: border-box;
     text-rendering: optimizeLegibility;
     scroll-behavior: smooth;
-    overflox-x: hidden;
+    overflow-x: hidden;
 }
 body {
     font-family: 'Montserrat', sans-serif;
