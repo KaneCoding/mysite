@@ -16,6 +16,8 @@ html, body {
     overflow-x: hidden;
     width: 100%;
 }
+html {
+background: #444; }
 ul {
     list-style: none;
 }
