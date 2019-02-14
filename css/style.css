@@ -232,6 +232,7 @@ button:focus {
     text-align: center;
     font-family: 'Raleway', sans-serif;
     width: 100%;
+    background: #fff;
 }
 #about .container {
     padding: 2rem;
@@ -360,6 +361,7 @@ button:focus {
 /* contact */
 #contact {
     text-align: center;
+    background: #fff;
 }
 .form-footer {
     display: flex;
