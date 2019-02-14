@@ -4,20 +4,14 @@
     --primary-color: #FF8B34;
 }
 /* css reset */
-html {
+html, body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-rendering: optimizeLegibility;
     scroll-behavior: smooth;
     overflow-x: hidden;
-}
-body {
-    font-family: 'Montserrat', sans-serif;
-    margin: 0;
-    padding: 0;
     width: 100%;
-    overflow: hidden;
 }
 ul {
     list-style: none;
