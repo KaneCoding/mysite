@@ -38,6 +38,8 @@
     }
     .features {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .features .feature  {
         border-bottom: 2px dotted #89878B;
@@ -54,6 +56,11 @@
     .content {
         width: 100%;
         height: 80%;
+    }
+    #cta .header div {
+        padding-left: .6rem;
+        padding-right: .6rem;
+        width: 90%;
     }
     .form-footer {
         flex-direction: column;
