@@ -64,6 +64,9 @@
         width: 100%;
         height: 80%;
     }
+    #content-1 .container img {
+        padding-bottom: 10rem;
+    }
     #cta .header div {
         padding-left: .6rem;
         padding-right: .6rem;
