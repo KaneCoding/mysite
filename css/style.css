@@ -90,7 +90,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: .8rem;
+/*     padding: .8rem; */
 }
 #main-nav ul {
     display: flex;
